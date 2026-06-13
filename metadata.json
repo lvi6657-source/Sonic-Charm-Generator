@@ -1,0 +1,6 @@
+{
+  "name": "Sonic Charm Generator",
+  "description": "A minimalist multi-channel frequency and volume sweep generator with tile-based workspace and granular parameter controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
